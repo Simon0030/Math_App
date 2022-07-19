@@ -1,0 +1,20 @@
+.button {
+  background: #222;
+  border: 1px solid #212121;
+  margin: 2rem;
+  cursor: pointer;
+  color: #61dafb;
+  padding: 10px;
+  font-size: 20px;
+  font-family: Segoe UI;
+  font-weight: lighter;
+  height: 5rem;
+  width: 10rem;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.div {
+  text-align: center;
+}
